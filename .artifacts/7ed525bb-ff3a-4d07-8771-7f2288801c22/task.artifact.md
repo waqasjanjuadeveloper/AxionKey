@@ -1,0 +1,8 @@
+- [x] Add `provider` dependency to `pubspec.yaml`
+- [x] Create `PasswordModel` in `lib/models/password_model.dart`
+- [x] Create `PasswordProvider` in `lib/providers/password_provider.dart`
+- [x] Refactor `main.dart` to include `MultiProvider`
+- [x] Refactor `HomeScreen` to use `PasswordProvider`
+- [x] Refactor `AddPassword` to use `PasswordProvider`
+- [x] Refactor `EditPassword` to use `PasswordProvider`
+- [x] Verify functionality and state management
